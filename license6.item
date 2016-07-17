@@ -1,0 +1,11 @@
+{
+  "itemName" : "license6",
+  "rarity" : "Legendary",
+  "category" : "shipLicense",
+  "inventoryIcon" : "license6.png",
+  "description" : "Qualifies the bearer to fly Roc class ships.",
+  "shortdescription" : "Roc License",
+
+  "pickupQuestTemplates" : ["shipupgrade6"],
+  "consumeOnPickup" : true
+}

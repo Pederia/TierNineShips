@@ -1,0 +1,12 @@
+{
+	"name" : "Tier Nine Ships",
+	"version" : "Cheerful Giraffe test build",
+	"path" : ".",
+	"requires" : [ ],
+    "includes" : [ ],
+	"metadata" : {
+        "author" : "eLe",
+        "description" : "Because eight tiers just aren't enough.",
+        "version" : "0.10.0.0"
+	}
+}

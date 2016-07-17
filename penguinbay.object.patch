@@ -1,0 +1,7 @@
+[
+	{
+    "op" : "add",
+    "path" : "/interactData/items/-",
+    "value" :  { "item" : "fakelicense6", "prerequisiteShipLevel" : 7, "exclusiveQuests" : [ "shipupgrade6", "illegalshipupgrade6" ] }
+	}
+]
