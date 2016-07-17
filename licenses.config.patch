@@ -1,0 +1,15 @@
+[
+	{
+		"op" : "add",
+		"path" : "/"
+		"value" : { 
+		"8" : {
+			"licenseLevel" : 6,
+			"cinematic" : "/cinematics/licenses/license6.cinematic",
+			"item" : "license6,
+			"exclusiveQuests" : [ "illegalshipupgrade6" ],
+			"itemDelay" : 4
+			}
+		}
+	}
+]
