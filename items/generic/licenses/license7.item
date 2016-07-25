@@ -1,0 +1,11 @@
+{
+  "itemName" : "license7",
+  "rarity" : "Legendary",
+  "category" : "shipLicense",
+  "inventoryIcon" : "license7.png",
+  "description" : "Qualifies the bearer to fly Ziz class ships.",
+  "shortdescription" : "Ziz License",
+
+  "pickupQuestTemplates" : ["shipupgrade7"],
+  "consumeOnPickup" : true
+}
