@@ -1,0 +1,20 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/endTreasure",
+		"value" : [
+		[0, {
+			"fill" : [
+			{"item" : ["money", 25000]},
+			{"item" : "finalpostcard-codex" },
+			{"item" : "license7" },
+			{"pool" : "valuableTreasure"},    
+			{"pool" : "valuableTreasure"},    
+			{"pool" : "valuableTreasure"},    
+			{"pool" : "valuableTreasure"}
+					]
+			}
+		]
+		]
+	}
+]
