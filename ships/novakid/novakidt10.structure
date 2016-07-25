@@ -8,21 +8,11 @@
 
   "backgroundOverlays" : [
     {
-      "image" : "novakidT9_1.png",
-      "position" : [131.86, 20.75],
+      "image" : "novakidT10.png",
+      "position" : [-10.64, 20.75],
       "fullbright" : true
-    },    
-    {
-      "image" : "novakidT9_2.png",
-      "position" : [11.61, 20.75],
-      "fullbright" : true
-    },
-    {
-      "image" : "novakidT9_3.png",
-      "position" : [0.0, 20.75],
-      "fullbright" : true
-    }  ],
+    }],
 
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "novakidT9blocks.png"
+  "blockImage" : "novakidT10blocks.png"
 }
