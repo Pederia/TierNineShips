@@ -1,0 +1,28 @@
+{
+  "id" : "shipupgrade7",
+  "prerequisites" : [ "destroyruin" ],
+  "title" : "^green;Ziz Ship Upgrade",
+  "text" : "Oi! I wanted to thank you for saving the Universe and all. I'd like to upgrade your ship to a unique Ziz-class flagship, free of charge!",
+  "completionText" : "The penguins give you their regards as well.",
+  "completionCinema" : "/cinematics/upgrading/shipupgrade.cinematic",
+  "moneyRange" : [0, 0],
+  "rewards" : [ ],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {        
+		"portrait" : [ {"image" : "/objects/outpost/shipyardcaptain/shipyardcaptainportrait.png"} ],
+        "title" : "Penguin Pete"
+		},
+      "questComplete" : {       
+		"portrait" : [ {"image" : "/objects/outpost/shipyardcaptain/shipyardcaptainportrait.png"} ],
+        "title" : "Penguin Pete"
+		}
+	},
+    "upgradeShip" : { "shipLevel" : 10 },
+    "requireTurnIn" : true
+  }
+}
