@@ -33,5 +33,40 @@
     "op" : "add",
     "path" : "/speciesShips/hylotl/-",
     "value" : "/ships/hylotl/hylotlT9.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/human/-",
+  "value" : "/ships/human/humanT10.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/avian/-",
+  "value" : "/ships/avian/avianT10.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/glitch/-",
+  "value" : "/ships/glitch/glitchT10.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/floran/-",
+  "value" : "/ships/floran/floranT10.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/hylotl/-",
+  "value" : "/ships/hylotl/hylotlT10.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/novakid/-",
+  "value" : "/ships/novakid/novakidT10.structure"
+  },
+  {
+  "op" : "add",
+  "path" : "/speciesShips/apex/-",
+  "value" : "/ships/apex/apexT10.structure"
   }
 ]
