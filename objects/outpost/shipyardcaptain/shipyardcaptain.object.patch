@@ -8,5 +8,10 @@
 		"op" : "add",
 		"path" : "/turnInQuests/-",
 		"value" : "illegalshipupgrade6"
+	},
+	{
+		"op" : "add",
+		"path" : "/turnInQuests/-",
+		"value" : "shipupgrade7"
 	}
 ]
