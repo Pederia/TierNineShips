@@ -8,17 +8,10 @@
 
   "backgroundOverlays" : [
     {
-      "image" : "hylotlT9_1.png",
-      "position" : [204, 0],
-      "fullbright" : true
-    },
-	
-    {
-      "image" : "hylotlT10_2.png",
-      "position" : [17, 0],
+      "image" : "hylotlT10.png",
+      "position" : [-25, 0],
       "fullbright" : true
     }
-
   ],
 
   "blockKey" : "blockKey.config:blockKey",
